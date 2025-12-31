@@ -20,6 +20,8 @@ auths/*
 logs/*
 conv/*
 config.yaml
+.usage_backup.json
+.mgmt_key
 
 # Development/editor
 bin/*

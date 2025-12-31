@@ -12,6 +12,8 @@ logs/*
 conv/*
 temp/*
 refs/*
+.usage_backup.json
+.mgmt_key
 
 # Storage backends
 pgstore/*
